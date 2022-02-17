@@ -18,7 +18,7 @@ I'm [Lalan Desai](https://http.cat/404), a passionate self-taught developer from
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-<br/>
+<br/><br/><br/>
 
 - 💼 Any freelance work? do reach, [email](mailto:lalandesai@outlook.com) :)
 - 💬 Ask me about anything, A am happy to help ;)
