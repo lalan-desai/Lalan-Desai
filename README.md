@@ -20,13 +20,12 @@ I'm [Lalan Desai](https://http.cat/404), a passionate self-taught developer from
 
 <br/>
 
-<hr>
-
 - 💼 Any freelance work? do reach, [email](mailto:lalandesai@outlook.com) :)
 - 💬 Ask me about anything, A am happy to help ;)
 
 <br/>
 
+<hr>
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
