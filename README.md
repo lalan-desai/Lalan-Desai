@@ -2,6 +2,18 @@
 
 I'm [Lalan Desai](https://http.cat/404), a passionate self-taught developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
+
+
+
+
+- 💼 Any freelance work? do reach, [email](mailto:lalandesai@outlook.com) :)
+- 💬 Ask me about anything, A am happy to help ;)
+
+
+<br/>
+
+<hr>
+
 <a href="https://www.instagram.com/lalan.desai/">
   <img align="center" alt="Lalan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -16,11 +28,6 @@ I'm [Lalan Desai](https://http.cat/404), a passionate self-taught developer from
 </a>
 
 
-
-
-
-- 💼 Any freelance work? do reach, [email](mailto:lalandesai@outlook.com) :)
-- 💬 Ask me about anything, A am happy to help ;)
 
 <br/>
 
