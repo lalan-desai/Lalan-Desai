@@ -23,7 +23,7 @@ I'm [Lalan Desai](https://http.cat/404), a passionate self-taught developer from
 - 💼 Any freelance work? do reach, [email](mailto:lalandesai@outlook.com) :)
 - 💬 Ask me about anything, A am happy to help ;)
 
-<br/>
+<br/><br/>
 
 <hr>
 
