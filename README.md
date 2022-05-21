@@ -13,28 +13,10 @@ I'm [Lalan Desai](https://http.cat/404), a passionate self-taught developer from
 <br/>
 
 
-<a href="https://www.instagram.com/lalan.desai/">
-  <img align="center" alt="Lalan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discordapp.com/users/498388603173470208">
-  <img align="center" alt="Lalan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/Lalan_Desai02">
-  <img align="center" alt="Lalan Desai | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/lalan-desai-42926a177/">
-  <img align="center" alt="Lalan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-
 
 <br/>
 
 <hr>
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/lalandesai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 
