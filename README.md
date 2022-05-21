@@ -10,9 +10,6 @@ I'm [Lalan Desai](https://http.cat/404), a passionate self-taught developer from
 - 💬 Ask me about anything, I am happy to help ;)
 
 
-<br/>
-
-
 
 <br/>
 
