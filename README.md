@@ -4,15 +4,7 @@ I'm [Lalan Desai](https://http.cat/404), a passionate self-taught developer from
 
 
 
-
-
 - 💼 Any freelance work? do reach, [email](mailto:lalandesai@outlook.com) :)
 - 💬 Ask me about anything, I am happy to help ;)
 
-
-
 <br/>
-<hr>
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lalan-Desai&show_icons=true&theme=gotham" alt="Lalan Desai" />
