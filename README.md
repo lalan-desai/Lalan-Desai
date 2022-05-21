@@ -12,11 +12,7 @@ I'm [Lalan Desai](https://http.cat/404), a passionate self-taught developer from
 
 
 <br/>
-
 <hr>
-
-
-
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lalan-Desai&show_icons=true&theme=gotham" alt="Lalan Desai" />
